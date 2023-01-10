@@ -43,7 +43,7 @@ public class Main {
                     leds[j] = false;
                 }
             }
-            System.out.print("\n");
+            System.out.print(" "+ i + "\n ");
         }
 
     }
